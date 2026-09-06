@@ -14,7 +14,7 @@ Hi, I'm Karan 👋<br><br>I'm a software engineer passionate about building scal
 
 ---
 # Leetcode Stats:
-[![LeetCode stats](https://leetcode-stats-six.vercel.app/KaranMittal?theme=dark)](https://github.com/karan-mittal06/leetcode-stats)
-[![LeetCode submissions](https://leetcode-stats-six.vercel.app/Karanmittal/graph?theme=dark&width=500)](https://github.com/karan-mittal06/leetcode-stats)
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/KaranMittal?theme=dark)](https://github.com/karan-mittal06/leetcode-stats) <br/>
+[![LeetCode submissions](https://leetcode-stats-six.vercel.app/Karanmittal/graph?theme=dark&width=1500)](https://github.com/karan-mittal06/leetcode-stats)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
